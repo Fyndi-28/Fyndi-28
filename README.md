@@ -2,7 +2,7 @@
 
 Meu nome é Luiza Noronha
 
-- Estou estudando na alura;
+- Estou estudando na [Alura](https://www.alura.com.br0;
 
 - Estou desenvolvendo na linguagem JavaScript;
 
